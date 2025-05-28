@@ -1,7 +1,8 @@
-pandas
-scikit-learn
-imblearn
-fastapi>=0.103.2
-uvicorn[standard]
-joblib
-numpy
+pandas==2.0.3
+scikit-learn==1.3.0
+imblearn==0.11.0
+fastapi==0.103.2
+uvicorn[standard]==0.23.2
+joblib==1.3.2
+numpy==1.24.3
+pydantic==2.5.2
