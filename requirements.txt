@@ -1,7 +1,7 @@
 pandas
 scikit-learn
-imbalanced-learn
-fastapi
+imblearn
+fastapi>=0.103.2
 uvicorn[standard]
 joblib
 numpy
